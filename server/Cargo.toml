@@ -72,7 +72,7 @@ actix-governor = { version = "0.8.0", features = ["logger"] }
 # proposing feedback
 tempfile = "3.12.0"
 base64 = "0.22.1"
-polars = { version = "0.45.1", features = ["dtype-struct", "dtype-date", "dtype-datetime", "dtype-duration", "parquet"], default-features = false }
+polars = { version = "0.46.0", features = ["dtype-struct", "dtype-date", "dtype-datetime", "dtype-duration", "parquet"], default-features = false }
 
 # geodata
 geo = { version = "0.29.3", features = ["use-serde"], default-features = false }
