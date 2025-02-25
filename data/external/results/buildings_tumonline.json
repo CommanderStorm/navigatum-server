@@ -359,16 +359,6 @@
     "name": "Trogerstr. 18, Pathologie",
     "tumonline_id": 1029
   },
-  "1545": {
-    "address": {
-      "place": "M\u00fcnchen",
-      "street": "Ismaningerstr. 22",
-      "zip_code": 81675
-    },
-    "area_id": 22,
-    "name": "Mikrobiologie, Tierst\u00e4lle",
-    "tumonline_id": 1771
-  },
   "1548": {
     "address": {
       "place": "M\u00fcnchen",
@@ -448,26 +438,6 @@
     "area_id": 21,
     "name": "Altbau 8, Institut f\u00fcr Medizinische Mikr",
     "tumonline_id": 1022
-  },
-  "1650": {
-    "address": {
-      "place": "M\u00fcnchen",
-      "street": "Dietlindenstr./Biedersteiner Str. 29",
-      "zip_code": 80802
-    },
-    "area_id": 21,
-    "name": "Tierstall f. Pharmakologie",
-    "tumonline_id": 1023
-  },
-  "1652": {
-    "address": {
-      "place": "M\u00fcnchen",
-      "street": "Dietlindenstr./Biedersteiner Str. 29",
-      "zip_code": 80802
-    },
-    "area_id": 21,
-    "name": "Tierst\u00e4lle",
-    "tumonline_id": 1024
   },
   "1713": {
     "address": {
@@ -1869,16 +1839,6 @@
     "name": "Veitshof Maschinenhalle",
     "tumonline_id": 661
   },
-  "4182": {
-    "address": {
-      "place": "Freising",
-      "street": "Staatsgut Veitshof",
-      "zip_code": 85354
-    },
-    "area_id": 44,
-    "name": "Veitshof Bullenstall",
-    "tumonline_id": 662
-  },
   "4183": {
     "address": {
       "place": "Freising",
@@ -1888,26 +1848,6 @@
     "area_id": 44,
     "name": "Veitshof Wohnung/Garage",
     "tumonline_id": 663
-  },
-  "4184": {
-    "address": {
-      "place": "Freising",
-      "street": "Staatsgut Veitshof",
-      "zip_code": 85354
-    },
-    "area_id": 44,
-    "name": "Veitshof Mehrzweckstall",
-    "tumonline_id": 664
-  },
-  "4185": {
-    "address": {
-      "place": "Freising",
-      "street": "Staatsgut Veitshof",
-      "zip_code": 85354
-    },
-    "area_id": 44,
-    "name": "Veitshof Offenstall",
-    "tumonline_id": 665
   },
   "4186": {
     "address": {
@@ -1948,16 +1888,6 @@
     "area_id": 44,
     "name": "Veitshof Strohlagerhalle",
     "tumonline_id": 710
-  },
-  "4190": {
-    "address": {
-      "place": "Freising",
-      "street": "Staatsgut Veitshof",
-      "zip_code": 85354
-    },
-    "area_id": 44,
-    "name": "Veitshof Jungviehstall",
-    "tumonline_id": 711
   },
   "4191": {
     "address": {
@@ -2829,16 +2759,6 @@
     "name": "VST.Thalh.-Maschinenhalle",
     "tumonline_id": 740
   },
-  "4605": {
-    "address": {
-      "place": "Kranzberg",
-      "street": "Staatsgut Thalhausen",
-      "zip_code": 85402
-    },
-    "area_id": 54,
-    "name": "VST.Thalh.-Rinder/K\u00e4lber (L\u00f6bnitz)",
-    "tumonline_id": 741
-  },
   "4606": {
     "address": {
       "place": "Kranzberg",
@@ -2848,96 +2768,6 @@
     "area_id": 54,
     "name": "VST.Thalh.-Futterzentrale",
     "tumonline_id": 742
-  },
-  "4607": {
-    "address": {
-      "place": "Kranzberg",
-      "street": "Staatsgut Thalhausen",
-      "zip_code": 85402
-    },
-    "area_id": 54,
-    "name": "VST.Thalh.-Tr. Sauen/Eber (Besamungsst./",
-    "tumonline_id": 743
-  },
-  "4608": {
-    "address": {
-      "place": "Kranzberg",
-      "street": "Staatsgut Thalhausen",
-      "zip_code": 85402
-    },
-    "area_id": 54,
-    "name": "VST.Thalh.-Mastschweine 1 (Maststall)",
-    "tumonline_id": 744
-  },
-  "4609": {
-    "address": {
-      "place": "Kranzberg",
-      "street": "Staatsgut Thalhausen",
-      "zip_code": 85402
-    },
-    "area_id": 54,
-    "name": "VST.Thalh.-Ferkel/Sauen",
-    "tumonline_id": 745
-  },
-  "4610": {
-    "address": {
-      "place": "Kranzberg",
-      "street": "Staatsgut Thalhausen",
-      "zip_code": 85402
-    },
-    "area_id": 54,
-    "name": "VST.Thalh.-Mastschweine 2",
-    "tumonline_id": 746
-  },
-  "4611": {
-    "address": {
-      "place": "Kranzberg",
-      "street": "Staatsgut Thalhausen",
-      "zip_code": 85402
-    },
-    "area_id": 54,
-    "name": "VST.Thalh.-Legehennen/Broiler",
-    "tumonline_id": 736
-  },
-  "4612": {
-    "address": {
-      "place": "Kranzberg",
-      "street": "Staatsgut Thalhausen",
-      "zip_code": 85402
-    },
-    "area_id": 54,
-    "name": "VST.Thalh.-Probemaststall",
-    "tumonline_id": 730
-  },
-  "4613": {
-    "address": {
-      "place": "Kranzberg",
-      "street": "Staatsgut Thalhausen",
-      "zip_code": 85402
-    },
-    "area_id": 54,
-    "name": "VST.Thalh.-Elterntierstall",
-    "tumonline_id": 731
-  },
-  "4614": {
-    "address": {
-      "place": "Kranzberg",
-      "street": "Staatsgut Thalhausen",
-      "zip_code": 85402
-    },
-    "area_id": 54,
-    "name": "VST.Thalh.-Futtergang",
-    "tumonline_id": 732
-  },
-  "4615": {
-    "address": {
-      "place": "Kranzberg",
-      "street": "Staatsgut Thalhausen",
-      "zip_code": 85402
-    },
-    "area_id": 54,
-    "name": "Animal Research Center Thalhausen (ARC T",
-    "tumonline_id": 733
   },
   "4616": {
     "address": {
