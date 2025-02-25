@@ -4726,8 +4726,8 @@
   },
   "47857": {
     "code": "TUPOL04",
-    "name": "Assistant Professorship of Political Philosophy and Theory (Prof. Ulbricht komm.)",
-    "path": "TUM/Schools/Social Sciences and Technology/Departments/Governance/Political Philosophy and Theory (Prof. Ulbricht komm.)"
+    "name": "Assistant Professorship of Political Theory & Philosophy  (Prof. Westphal)",
+    "path": "TUM/Schools/Social Sciences and Technology/Departments/Governance/Political Theory & Philosophy  (Prof. Westphal)"
   },
   "47877": {
     "code": "TUPOL05",
@@ -11183,5 +11183,10 @@
     "code": "TUS4G0L",
     "name": "Associate Professorship of Global Change Limnology (Prof. Waldvogel)",
     "path": "TUM/Schools/Life Sciences/Departments/Life Science Systems/Global Change Limnology (Prof. Waldvogel)"
+  },
+  "57117": {
+    "code": "TUWIH14",
+    "name": "Chair of Marketing Analytics (Prof. Eckert)",
+    "path": "TUM/Schools/Management/Departments/Marketing, Strategy and Leadership/Marketing Analytics (Prof. Eckert)"
   }
 }
